@@ -1,2 +1,2 @@
-# prometheus-electrumx-exporter
+# electrumx-prometheus-exporter
 Small Electrumx Prometheus exporter
